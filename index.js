@@ -121,6 +121,6 @@ app.post("/api/persons", (req, res) => {
 //========================================
 
 // ============= PORT & listen ============
-const PORT = 3001;
+const PORT = 3003;
 app.listen(PORT);
 console.log(`Server running on port ${PORT}`);
